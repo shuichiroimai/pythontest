@@ -13,3 +13,4 @@ if __name__ == '__main__':
     w.write('hello')
     w.write('world\n')
     w.close()
+    
